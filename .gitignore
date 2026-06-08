@@ -1,0 +1,9 @@
+bibtex_cleaner.py
+make_cvpubs.py
+cvpubs.md
+cvpubs.txt
+*~
+*.bak
+*.json
+*.DS_Store
+auto
