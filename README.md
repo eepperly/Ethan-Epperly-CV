@@ -1,5 +1,7 @@
 # Ethan N. Epperly
 
+![Headshot of Ethan Epperly](headshot.jpg)
+
 I am a [Miller research fellow](https://miller.berkeley.edu/fellowship) in the [mathematics department at UC Berkeley](https://math.berkeley.edu/home). My research is focused on designing computational techniques for solving large-scale problems in machine learning, quantum information, and scientific computing, with a focus on randomized algorithms. I received my PhD in [Applied and Computational Mathematics](http://www.cms.caltech.edu/academics/grad_acm) from Caltech.
 
 I have been recognized for my work with [finalist status for the Hertz foundation fellowship](https://www.hertzfoundation.org/news/41-finalists-named-for-the-2020-hertz-fellowships/), Caltech's [Thomas A. Tisch Prize for Graduate Teaching in CMS](https://cms.divisions.caltech.edu/academics/honors) and [W. P. Carey & Co. Prize in Applied Mathematics](https://www.cms.caltech.edu/academics/honors#w-p-carey-co-prize-in-applied-mathematics), and the [SIAM Student Paper Prize](https://www.siam.org/publications/siam-news/articles/2025-july-prize-spotlight#Epperly). I grateful to have had my PhD research supported by a [Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/about-doe-csgf/news-events/2020-incoming-class).
