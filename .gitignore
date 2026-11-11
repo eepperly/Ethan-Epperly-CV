@@ -7,3 +7,13 @@ cvpubs.txt
 *.json
 *.DS_Store
 auto
+\#*\#
+.Rhistory
+cv.aux
+cv.log
+cv.out
+epperly_ethan_duplicates.txt
+epperly_ethan_rename_keys.sh
+global.bib
+missfont.log
+readme/
